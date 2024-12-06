@@ -5,7 +5,7 @@ import requests
 import argparse
 import configparser
 import pandas as pd
-from wcwidth import wcswidth    # 打印表格自动调整宽度，很重要
+from wcwidth import wcswidth
 from tabulate import tabulate
 from colorama import Fore, Style
 
