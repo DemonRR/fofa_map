@@ -45,5 +45,6 @@ options:
   -o OUTFILE, --outfile OUTFILE 保存查询结果文件名
 ```
 
-![Snipaste_2024-12-06_11-24-27](E:\主文件夹\桌面\assets\Snipaste_2024-12-06_11-24-27.png)
+<img width="1153" alt="Snipaste_2024-12-06_11-24-27" src="https://github.com/user-attachments/assets/fd995d2c-156a-4082-8732-815ce04cacee">
+
 
