@@ -1,6 +1,6 @@
 **一.安装说明**
 
-1.首次使用请使用 **pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple**命令，安装必要的外部依赖包。
+1.首次使用请使用 **pip install -r requirements.txt**命令，安装必要的外部依赖包。
 
 2.使用前，先填写用户信息[info]中的email和key，**fofa.ini**配置文件如下：
 
