@@ -1,3 +1,4 @@
+import sys
 import time
 import base64
 import requests
@@ -90,7 +91,7 @@ if __name__ == '__main__':
 
     if not email or not key:
         print(Fore.RED + '配置文件缺少必要的email或key!' + Style.RESET_ALL)
-        exit(1)
+        sys.exit(1)
 
     # 解析命令行参数
     parser = argparse.ArgumentParser(description="FOFA API查询工具")
